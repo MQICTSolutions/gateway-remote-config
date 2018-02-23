@@ -29,7 +29,7 @@ server="tcp://test.mqsolutions.vn:1883"
 username="test"
 
 # Connect with the given password (optional)
-password="teest"
+password="test"
 
 # CA certificate file (optional)
 #
