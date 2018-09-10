@@ -219,7 +219,7 @@
         "gateway_ID": "B827EBFFFED0230A",
 		 "servers": [
 				{
-						"server_address": "router.as.thethings.network",
+						"server_address": "router.as1.thethings.network",
 						"serv_port_up": 1700,
 						"serv_port_down": 1700,
 						"serv_enabled": true
