@@ -231,6 +231,8 @@
 						"serv_enabled": true
 				}				
 		],
+        /* Devices */
+        "gps": false,		
 		"ref_latitude": 0,
 		"ref_longitude": 0,
 		"ref_altitude": 40,
