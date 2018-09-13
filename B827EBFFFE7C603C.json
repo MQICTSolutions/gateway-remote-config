@@ -225,6 +225,8 @@
 						"serv_enabled": true
 				}			
 		],
+        /* Devices */
+        "gps": false,			
 		"contact_email": "nguyen.thanh.tuan@mqsolutions.vn",
 		"description": "MQ LoRa Gateway Dev1.0"		
 	}
